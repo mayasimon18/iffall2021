@@ -1,0 +1,81 @@
+h1 {
+  font-weight: bolder; 
+  text-align: center;
+  color:white; 
+  font-family:'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Peter {
+    text-align: center;
+    color:rgb(212, 3, 3);
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+.Dana {
+    text-align: center;
+    color:rgb(224, 38, 75);
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+.Mayor {
+    text-align: center;
+    color:rgb(126, 46, 46);
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+.Ray {
+    text-align: center;
+    color:orangered;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+.Egon {
+    text-align: center;
+    color:tomato;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+.Winston {
+    text-align: center;
+    color:salmon;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+#clearing {
+    text-align: center;
+    color:gray;
+    padding-top: 85px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+#yanks{
+    text-align: center;
+    color:gray;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ #top2 {
+     padding-top: 85px;
+ }
+
+ footer {
+     padding-top: 50px;
+     text-align: center;
+     color: white;
+ }
+
+body {
+     background-color:rgb(22, 22, 22);
+ }
+
+#peter1 {
+    padding-top: 20px;
+}
