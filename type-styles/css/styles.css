@@ -1,0 +1,59 @@
+html {
+    font-family: 'Raleway', sans-serif;
+    text-indent: 300px;
+    font-size: 12pt;
+    background-color: steelblue;
+    color: white;
+}
+
+.label {
+    color:midnightblue;
+}
+
+h1 { 
+    text-indent: 150px;
+
+}
+
+.title {
+    font-size: 40px;
+    color:midnightblue;
+}
+
+.light {
+    font-weight: 300;
+}
+.heavy {
+    font-weight: 800;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.em {
+    letter-spacing: 1em;
+}
+.rem {
+    letter-spacing: -.1em;
+}
+
+.capitalized {
+    text-transform: capitalize;
+}
+.lowercase {
+    text-transform: lowercase;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+
+.underline {
+    text-decoration: underline;
+}
+.strikethrough {
+    text-decoration: line-through;
+}
+.overline {
+    text-decoration: overline;
+}
