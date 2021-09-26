@@ -1,0 +1,34 @@
+img {
+    width: 450px;
+    height:300px;
+}
+
+html {
+    font-family: 'PT Serif', serif;
+    background-color: blanchedalmond;
+
+}
+
+h1 {
+    font-size: 20pt;
+    color:saddlebrown;
+}
+
+.title {
+    text-align: center;
+}
+
+#two {
+    align-content: center;
+}
+
+.bowl {
+    width: 280px; 
+    height: 280px;
+    object-fit: cover;
+    object-position: left center;
+}
+
+section {
+    text-align: center;
+}
