@@ -1,0 +1,10 @@
+.title {
+    text-align: center;
+}
+
+img {
+    width: auto; 
+    height: auto;
+    display: block;
+    padding-bottom: 5rem;
+}
