@@ -1,0 +1,123 @@
+html {
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+header {
+    text-align: center;
+    padding-top: 152px;
+    background-image: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+    background-size: 100%;
+}
+header .content {
+  padding:3px 0 180px 0;
+}
+.content {
+    width: 960px;
+    margin: auto;
+}
+header h1 {
+    margin: 0;
+    font-size: 80px;
+    color: white;
+}
+header h2 {
+    margin: 0;
+    margin-top: -3px;
+    font-size: 30px;
+    color: white;
+}
+
+.image1 {
+    float:right;
+    width:400px;
+    height:300px;
+    margin-top:1px;
+    margin-left:40px;
+    margin-bottom:30px;
+    object-fit: cover;
+}
+
+section h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+    color: white;
+}
+
+p {
+    font-size: 18px;
+    color:white;
+    line-height: 1.6rem;
+    margin-top: 0px;
+}
+
+section .content {
+    padding: 5px 0 72px 0
+}
+.first {
+    background-color:lightgray;
+    padding-top: 1px;
+    padding-bottom: 35px;
+}
+
+ul {
+    margin-bottom: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding:0;
+}
+ul li {
+    display: block;
+    width: 90%;
+}
+
+ul img {
+    object-fit: cover;
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin: 0 12px 24px 0;
+}
+
+ul h3 {
+    font-size: 20px;
+    margin: 2px 0 7px 0;
+    color: white;
+}
+
+.second p {
+    margin: 0px;
+}
+
+.second {
+  background-color:slategrey;
+  padding: 1px 0 40px 0;
+}
+
+.third h1 {
+    padding: 2px 0 0px 0;
+}
+
+.third {
+    background-image: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+}
+
+h4 {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: .19px;
+    margin-left: 123px;
+    margin-right: 123px;
+    margin-top: -2px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+footer {
+    padding: 40px 0 40px 0;
+    background-color:darkgray;
+    font-size: 18px;
+    color: white;
+}
