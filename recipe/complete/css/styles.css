@@ -1,0 +1,113 @@
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    font-family: 'Zen Antique Soft', serif;
+    color: rgb(102, 54, 26);
+}
+
+.title {
+    text-align: right;
+    color: white;
+    text-shadow: 3px 3px rgb(102, 54, 26);
+}
+
+.description {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(226, 209, 187);
+    position: relative;
+    padding-bottom: .5%;
+}
+
+.Ingredients {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(226, 209, 187);
+    position: relative;
+    padding-bottom: .5%;
+}
+
+.Instructions {
+    text-align:center;
+    text-indent: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(226, 209, 187);
+    position: relative;
+    padding-bottom: .5%;
+}
+
+.storage {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(226, 209, 187);
+    position: relative;
+    padding-bottom: .5%;
+}
+
+.secondary {
+    text-align:center;
+    padding-top: 1%;
+}
+
+h1 {
+    color: white;
+    text-shadow: 3px 3px rgb(102, 54, 26); 
+}
+
+@media (min-width: 140px) {
+    body {
+     background-color: rgb(241, 223, 199);  
+    }
+ }
+ 
+ @media (max-width: 500px) {
+     h1 {
+         font-size: 2.5rem
+     }
+ }
+ 
+ @media (min-width: 640px) {
+     h1 {
+         font-size: 3.5rem
+     }
+ }
+
+header {
+    text-align:right;
+    background-image: url(https://thetoastedpinenut.com/wp-content/uploads/2018/08/IMG_7838.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 240px 45px 25px 60px;
+    margin: 0;
+}
+
+.source {
+    color: rgb(102, 54, 26);
+    text-align: center;
+    background-color: rgb(245, 236, 224);
+    position: relative;
+    margin-top: 1%;
+    padding: .5%;
+}
+
+a {
+    color: rgb(102, 54, 26)  
+}
+
+  
+img {
+     float: center;
+    width: 90%;
+    height: 300px;
+    margin-left: 5%;
+    margin-bottom: 1%;
+    margin-right: 5%;
+    object-fit: cover;
+} 
