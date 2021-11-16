@@ -1,0 +1,109 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #6181a1;
+}
+
+nav#main-nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+}
+
+nav#main-nav ul li a{
+    display: inline-block;
+    color: white;
+    background-color: #3a5066;
+    padding: 28px 50px;
+    width:20%;
+    font-size: 30px;
+    font-weight:bold;
+    letter-spacing: .2em;
+    text-decoration: none;
+    margin: 0px 50px 0px;
+    font-family: 'EB Garamond', serif;
+    font-variant: small-caps;
+    position: relative;
+}
+
+h1{ 
+    color: white;
+    text-align: right;
+    font-family: 'EB Garamond', serif;
+    font-variant: small-caps;
+    text-decoration: none;
+    padding: 50px 0px 50px 0px;
+    background-color: #465f79;
+    width: 100%;
+    font-size: 50px;
+}
+
+nav#second-nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #3a5066;
+}
+
+nav#second-nav ul li a{
+    font-size: 30px;
+    font-weight:bold;
+    letter-spacing: .2em;
+    text-decoration: none;
+    font-family: 'EB Garamond', serif;
+    font-variant: small-caps;
+    color: white;
+}
+
+h1.secondary {
+    color: #1f2c38;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-variant: small-caps;
+    text-decoration: none;
+    font-size: 50px;
+}
+
+p {
+    color: white;
+    margin: 20px;
+}
+
+.voice {
+    text-indent: 50px;
+    color: #1f2c38;
+}
+
+img.home1 {
+    position: absolute;
+    top: 0px;
+    left: 450px;
+    width: 30%
+}
+
+img.home2 {
+    position: absolute;
+    top: 250px;
+    left: 450px;
+    width: 30%
+}
+
+img.home3 {
+    position: absolute;
+    top: 490px;
+    left: 450px;
+    width: 30%
+}
+
+.homeplot {
+    text-align: right;
+    margin-left: 900px;
+    position: absolute;
+    top: 200px;
+    line-height: 30px;
+    margin-right: 12px;
+}
+
